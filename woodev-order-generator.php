@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Woo Dev Order Generator
+ * Plugin Name: Recurring Order Generator for Woo
  *
  * Description: Automatically generates sample WooCommerce orders daily for development purposes.
  * Version: 1.0.0
